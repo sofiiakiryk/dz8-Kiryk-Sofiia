@@ -1,0 +1,35 @@
+ .buttom {  background-color:#3e85ea ;
+   font-family: 'Anek Latin', sans-serif;
+    display: block;
+    color: rgb(247, 244, 244);
+    width: 200px;
+    height: 60px;
+    text-align: center;
+    text-decoration: none;
+    line-height: 50px;}
+    .buttom:hover { background-color:#e5efff ;
+   color:#4786f6 ;}
+   .buttom2{background-color:#ea3d2f ;
+      font-family: 'Anek Latin', sans-serif;
+      display: block;
+      color: rgb(247, 244, 244);
+      width: 200px;
+      height: 60px;
+      text-align: center;
+      text-decoration: none;
+      line-height: 50px;
+   margin-top: 40px;}
+.buttom2:hover { background-color:#fee4e2 ;
+color:#ea3d2f ;}
+.buttom3 {background-color: #2fa84f;
+   font-family: 'Anek Latin', sans-serif;
+display: block;
+color: rgb(247, 244, 244);
+width: 200px;
+height: 60px;
+text-align: center;
+text-decoration: none;
+line-height: 50px;
+margin-top: 40px; }
+.buttom3:hover { background-color:#dcf7e3 ;
+color: #2fa84f;}
